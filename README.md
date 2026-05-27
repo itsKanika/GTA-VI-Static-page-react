@@ -1,2 +1,2 @@
-<img width="1440" height="900" alt="Screenshot 2026-05-27 at 4 49 17 PM" src="https://github.com/user-attachments/assets/080013c5-00a2-4490-a988-ef78ea7fc9c5" />
-# GTA-VI-Static-page-react
+<img width="1365" height="800" alt="Screenshot 2026-05-27 at 4 50 26 PM" src="https://github.com/user-attachments/assets/4e38adac-39d1-4d03-93b4-1e75951a6490" />
+
